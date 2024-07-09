@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 ¡Hola! Soy Vanina, una desarrolladora argentina apasionada por crear soluciones innovadoras y eficientes. He trabajado con HTML, CSS, JavaScript, Tailwind y React.<br><br>Me encanta colaborar con equipos talentosos y enfrentar desafíos que me permitan mejorar y crecer. Soy proactivo y disfruto resolviendo problemas, siempre buscando aprender y adaptarme a nuevas tecnologías.<br><br>Estoy emocionado por la oportunidad de contribuir a proyectos interesantes y hacer una diferencia. Si necesitas un desarrollador comprometido y creativo, ¡me encantaría unirme a tu equipo y aportar mi experiencia!<br><br>Gracias por visitar mi perfil. ¡Espero con ansias lo que nos depara el futuro!
 
 
